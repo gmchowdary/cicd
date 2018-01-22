@@ -1,0 +1,4 @@
+{
+    "StackId": "arn:aws:cloudformation:us-west-2:314506018098:stack/JenkinsStack/ff13c5a0-ff4d-11e7-8711-503acbd4dc61"
+}
+"https://ecr.us-west-2.amazonaws.com/"
